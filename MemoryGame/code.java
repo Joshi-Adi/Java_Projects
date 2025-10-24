@@ -1,6 +1,4 @@
 package MemoryGame;
-// A simple Java program to demonstrate 
-// Memory Game
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
